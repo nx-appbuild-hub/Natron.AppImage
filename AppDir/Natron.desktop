@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Natron
+GenericName=Natron
+Categories=AudioVideoEditing;
+MimeType=application/x-emmx;
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=natron
+Hidden=false
+Comment=Cross platform & open-source compositor for visual effects and motion graphics industry
